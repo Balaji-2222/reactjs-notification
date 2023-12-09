@@ -1,0 +1,110 @@
+@media (max-width: 767px) {
+  .bgContainer {
+    height: 100vh;
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+  }
+  .heading {
+    color: #0f172a;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .notifications1 {
+    background-color: #0b69ff;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .notifications2 {
+    background-color: #2dca73;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .notifications3 {
+    background-color: #ffb800;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .notifications4 {
+    background-color: #ff0b37;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .image {
+    height: 15px;
+    width: 40px;
+  }
+  .paragraph {
+    color: white;
+    font-size: 20px;
+  }
+}
+@media (min-width: 768px) {
+  .bgContainer {
+    height: 100vh;
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .heading {
+    color: #0f172a;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .notifications1 {
+    background-color: #0b69ff;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .notifications2 {
+    background-color: #2dca73;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .notifications3 {
+    background-color: #ffb800;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .notifications4 {
+    background-color: #ff0b37;
+    height: 40px;
+    width: 190px;
+    max-width: 230px;
+    display: flex;
+    flex-direction: row;
+  }
+  .image {
+    height: 15px;
+    width: 40px;
+  }
+  .paragraph {
+    color: white;
+    font-size: 20px;
+  }
+}
